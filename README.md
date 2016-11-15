@@ -10,3 +10,6 @@ Repository related to the non-radio data of the [Hubble Frontier Fields](http://
 
 * MACS0416_phot_z_ASTRODEEP.txt
   * Photometric redshifts from [Castellano et al., 2016](http://adsabs.harvard.edu/abs/2016A%26A...590A..31C)
+
+* MACS0416_phot_z_CLASH.txt
+  * Photometric redshifts from [Balestra et al., 2016](http://adsabs.harvard.edu/abs/2016ApJS..224...33B)
