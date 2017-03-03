@@ -5,3 +5,6 @@ Repository related to the non-radio data of the [Hubble Frontier Fields](http://
 * get_HFF_models.py
   * Script to download the gravitational lensing magnification models from the HST Frontier Fields archive
 
+* get_optical_data.py
+  * Script to download the optical catalogues from the HST Frontier Fields archive
+
