@@ -42,7 +42,7 @@ for base in bases:
 				print >>f,syscall
 
 		except:
-			ri(requesturl+' failed: probably requested a model that does not exist for '+ff)
+			ri(requesturl+' failed: probably requested a file that does not exist for '+ff)
 
 f.close()
 gi('Done, source '+runfile+' to begin downloads')
